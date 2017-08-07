@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/mariasratbags/mariasratbags.png?label=ready&title=Ready)](https://waffle.io/mariasratbags/mariasratbags?utm_source=badge)
 # Project Name
 
 > Pithy project description
